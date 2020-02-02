@@ -51,10 +51,10 @@ ex:
  
 # github pages
  githubpages allow u sto upload our project to a server and share our project to the entier world u can benfit it by 
- *Showcase your work
- *Documentation
- *Markdown
- *download open source project to edit it and reduce time of coding
+ * Showcase your work
+ * Documentation
+ * Markdown
+ * download open source project to edit it and reduce time of coding
  
  
  
