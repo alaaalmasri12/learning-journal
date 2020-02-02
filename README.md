@@ -19,5 +19,7 @@ Growth mindset is about being postive able to overcome the challenges you face a
  ##  thanks to our instructor 
 - reham habbas
 - ammer
+
+(https://www.google.jo/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiIkaDH1LLnAhUMhRoKHVjtBAgQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.facebook.com%2FLTUC.JO%2Fphotos%2F%3Ftab%3Dalbum%26album_id%3D1750641804990497&psig=AOvVaw2XF1LlPr_DaAwelHZCmUe3&ust=1580725779272013)
  
  
