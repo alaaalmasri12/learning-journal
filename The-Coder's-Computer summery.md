@@ -29,4 +29,14 @@ ex:
 5. how to add images [imagename](the address of the image).
 
 ex:
-[ type of hackers](https://image.shutterstock.com/image-vector/three-white-black-grey-hats-600w-618714785.jpg)
+![hackers](https://image.shutterstock.com/image-vector/three-white-black-grey-hats-600w-618714785.jpg) 
+ # text editors
+ basicly text editor is a tool that we use to write our code and its  type of computer program that edits plain text Such programs are sometimes known as notepad,visual studio code,atom..etc software Text editors are provided with operating systems and software development packages  and can be used to change files such as programming language source code
+ # github pages
+ githubpages allow u sto upload our project to a server and share our project to the entier world u can benfit it by 
+ -Showcase your work
+ -Documentation
+ -Markdown
+ -download open source project to edit it and reduce time of coding
+ # terminals 
+ its a textbased userinterface that used to write commands u can change dirctories makefolders and files and save data into files
