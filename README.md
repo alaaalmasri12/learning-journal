@@ -16,10 +16,10 @@ Growth mindset is about being postive able to overcome the challenges you face a
 ### Profilo
  my name is Alaa almasri iam 22 years old iam self learning motivated person who is passionate about coding and learning knoweldge every day my faviorite hobbies is video games be social and watching movies and listening to music
  
- ##  thanks to our instructor 
+  ###  thanks to our instructor 
 - reham habbas
 - ammer
 
-(https://www.google.jo/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiIkaDH1LLnAhUMhRoKHVjtBAgQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.facebook.com%2FLTUC.JO%2Fphotos%2F%3Ftab%3Dalbum%26album_id%3D1750641804990497&psig=AOvVaw2XF1LlPr_DaAwelHZCmUe3&ust=1580725779272013)
+(https://www.google.jo/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiByJKa1bLnAhUsxoUKHXRlANMQjRx6BAgBEAQ&url=https%3A%2F%2Falghad.com%2F%25D9%2583%25D9%2584%25D9%258A%25D8%25A9-%25D9%2584%25D9%2588%25D9%2585%25D9%258A%25D9%2586%25D9%2588%25D8%25B3-%25D8%25A7%25D9%2584%25D8%25AC%25D8%25A7%25D9%2585%25D8%25B9%25D9%258A%25D8%25A9-%25D8%25AA%25D9%2581%25D9%2588%25D8%25B2-%25D8%25A8%25D8%25A5%25D8%25AD%25D8%25AF%25D9%2589-%25D8%25AC%25D9%2588%25D8%25A7%2F&psig=AOvVaw1v2aqkHErcnbsa-XyC6g8c&ust=1580725910299972)
  
  
