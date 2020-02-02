@@ -20,6 +20,6 @@ Growth mindset is about being postive able to overcome the challenges you face a
 - reham habbas
 - ammer
 
-(https://www.google.jo/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiByJKa1bLnAhUsxoUKHXRlANMQjRx6BAgBEAQ&url=https%3A%2F%2Falghad.com%2F%25D9%2583%25D9%2584%25D9%258A%25D8%25A9-%25D9%2584%25D9%2588%25D9%2585%25D9%258A%25D9%2586%25D9%2588%25D8%25B3-%25D8%25A7%25D9%2584%25D8%25AC%25D8%25A7%25D9%2585%25D8%25B9%25D9%258A%25D8%25A9-%25D8%25AA%25D9%2581%25D9%2588%25D8%25B2-%25D8%25A8%25D8%25A5%25D8%25AD%25D8%25AF%25D9%2589-%25D8%25AC%25D9%2588%25D8%25A7%2F&psig=AOvVaw1v2aqkHErcnbsa-XyC6g8c&ust=1580725910299972)
+(https://murtahil.com/wp-content/uploads/2019/12/LTUC-Logo-for-E-invite-scaled-1280x720.png)
  
  
