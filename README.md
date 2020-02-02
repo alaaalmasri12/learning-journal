@@ -20,5 +20,5 @@ Growth mindset is about being postive able to overcome the challenges you face a
 - reham habbas
 - ammer
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png) 
+![alaa](https://octodex.github.com/images/yaktocat.png) 
  
