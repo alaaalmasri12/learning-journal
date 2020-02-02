@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+### The Advantages of MindSet 
+Growth mindset is about being postive able to overcome the challenges you face and never give up you to trust your self becease if u didnt believe in your self no one will believe in you and the most important thing i learned today is to accept critism and ignore bad vibes comes from people.
+###how to keep my self going 
+1- keep motivated telling myself that i can do it if i push my limit.
+2-having a clam and collective mind becase bad mood will gives you problems in the future
+3-having fun life is short like they say you only live once (YOLO)
 
-You can use the [editor on GitHub](https://github.com/alaaalmasri12/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alaaalmasri12/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### features of markdown
+1-you dont need preior knowledge in html,css
+2-its simple easy to use
+3-you can add emojis you can add style to my page
+4-you can add lists and nested lists
+5-you can ignore text on your redeme.md and shot showing it on the page
+ ### Profilo:
+ my name is Alaa almasri iam 22 years old iam self learning motivated person who is passionate about coding and learning knoweldge every day my faviorite hobbies is video games be social and watching movies and listening to music.
+ ## thanks to our instructor 
+ 1-reham habbas
+ 2-ammer
+ 
+ 
