@@ -14,10 +14,10 @@ Growth mindset is about being postive able to overcome the challenges you face a
 4.  you can add lists and nested lists
 5.  you can ignore text on your redeme.md and shot showing it on the page
 
- ### Profilo:
+ ###  Profilo:
  my name is Alaa almasri iam 22 years old iam self learning motivated person who is passionate about coding and learning knoweldge every day my faviorite hobbies is video games be social and watching movies and listening to music
  
- ## thanks to our instructor 
+ ##  thanks to our instructor 
  - reham habbas
  - ammer
  
