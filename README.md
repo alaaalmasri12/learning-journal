@@ -8,7 +8,7 @@ Growth mindset is about being postive able to overcome the challenges you face a
 ### features of markdown
 1. you dont need preior knowledge in html,css
 2 .its simple easy to use
-3 .you can add emojis you can add style to my page
+3 .you can add emojis you can add style to my pages
 4 .you can add lists and nested lists
 5 .you can ignore text on your redeme.md and shot showing it on the page
  ### Profilo:
