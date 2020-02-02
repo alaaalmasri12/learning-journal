@@ -12,10 +12,12 @@ ex:
 # is the largest
 ## is the second largest
 ### is the smallest
-2. making the text bold using *text*1
+2. making the text bold using *text*
+
 ex:
 *alaa*
 3. how to make links usning [the name of the link inside the brackets ] then puting the actual link inside a parentheses
+
 ex:
 [slack](https://slack.com/intl/en-jo/downloads/instructions/windows).
 4-how to do orderd and unordered list
