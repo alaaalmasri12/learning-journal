@@ -1,5 +1,5 @@
 # Programming Summery 
-today i learned about many topics such as Growthmindset,markdown,text Editor,terminals,how to install ubntu terminal,githubages.
+today i learned about many topics such as Growthmindset,markdown,text Editor,terminals,how to install ubntu terminal,githubpages.
 # Growthmindset
 in Growthmindsest i learned that people are not born talanted and you cant be successful just by your talent you have to put effort 
 and aim for a goal  and try to achieve it also when i feel down or having problems that i couldn'tn solve i try to anlayze my problem
