@@ -29,4 +29,4 @@ ex:
 5. how to add images [imagename](the address of the image).
 
 ex:
-[ type of hackers](https://www.shutterstock.com/image-vector/three-white-black-grey-hats-cute-618714785).
+[ type of hackers](https://image.shutterstock.com/image-vector/three-white-black-grey-hats-600w-618714785.jpg)
