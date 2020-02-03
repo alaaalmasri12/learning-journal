@@ -11,9 +11,14 @@ create a repoistory by clicking new then create your file name and put your desc
 ## step:2 how to install my project on my local machiene 
 we use clone to have a copy of our project and put it inside a folder 
 the commands for the clone
+
+
 1.create  a folder by using the command of mkdir
 2. cd name of the dirictory
 3. git clone the http of url git repository
+
+
+
  step3:how to to add my project to git hub 
 1.we go to  the dirctory of the folder
 2. we check what files we have using ls command 
@@ -21,6 +26,8 @@ the commands for the clone
 4. we use commit to save changes that happend to our files
 5. we check our files if its deleted or edit using the command of git status
 6.we use the command of git push origin master
+
+
 ps:
 -origin:is the url of the project 
 -master:is the head of the latest commit
