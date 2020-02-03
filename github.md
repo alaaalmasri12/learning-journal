@@ -1,0 +1,1 @@
+> Github is like social media for programmers. They can upload there code and showoff there skill. They can have back up of all the files here.
