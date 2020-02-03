@@ -18,8 +18,8 @@ the commands for the clone
 3. git clone the http of url git repository
 
 
-
- step3:how to to add my project to git hub 
+## step3:how to to add my project to git hub
+ 
 1.we go to  the dirctory of the folder
 2. we check what files we have using ls command 
 3. then we use the command git add for the file name or we use git add . to add all files in the folder
