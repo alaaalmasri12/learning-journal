@@ -20,4 +20,4 @@ git is hosted on the cloud | git uses terminals such gitbash or ubnty terminal
 
 [what big compinayies use beside github](https://alaaalmasri12.github.io/learning-journal/open-source-clouds)
 
-[what kind of error you will face when u commit more one time](https://alaaalmasri12.github.io/earning-journal/giterrors)
+[what kind of error you will face when you commit more one time](https://alaaalmasri12.github.io/earning-journal/giterrors)
