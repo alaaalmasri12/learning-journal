@@ -22,6 +22,12 @@ heres the order
 1. inline
 2. internal
 3. external
+
+
+
+
 # the most common way to use color is by
+
 1. rgba() red,green,blue
+
 1. hex code
