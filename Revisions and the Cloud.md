@@ -15,6 +15,9 @@ git is hosted on the cloud | git uses terminals such gitbash or ubnty terminal
 
 # topics :
 [what is git](https://alaaalmasri12.github.io/learning-journal/git.md)
+
 [what is github](https://alaaalmasri12.github.io/learning-journal/github.md)
+
 [what big compinayies use beside github](https://alaaalmasri12.github.io/learning-journal/open-source-clouds.md)
+
 [what kind of error you will face when u commit more one time](https://alaaalmasri12.github.io/earning-journal/giterrors.md)
