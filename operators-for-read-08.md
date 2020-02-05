@@ -4,9 +4,9 @@ what is an operator: a comparison operator is a binary operator that takes two o
 How Can it be Used???
 Comparison operators can be used in conditional statements to compare values and take action depending on the result:
 ### Logical Operators
-1. &&
-2. ||
-3. !
+1. > &&
+2.  > ||
+3. > !
 # for loops
 For loops, similar to while loops, are used to iterate through a sequence/array of data types
 or objects So in programming, loops are used for reiteration - for repetition of tasks. A sequence 
