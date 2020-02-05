@@ -16,6 +16,6 @@ explicitly break out of it, or specify a condition to do so.
 # while loop
 while loop:while loop is a control flow statement that allows code to be executed repeatedly based on a given Boolean condition
 
-#do while
+# do while
 do while statement creates a loop that executes a specified statement until the test condition evaluates to false
 
